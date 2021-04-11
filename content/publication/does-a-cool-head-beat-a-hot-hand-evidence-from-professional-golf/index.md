@@ -25,9 +25,9 @@ tags: []
 categories: []
 projects: []
 image:
-  filename: featured
+  filename: golf.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: ""
 date: 2021-04-11T04:51:09.750Z
 ---
