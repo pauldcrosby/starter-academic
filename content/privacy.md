@@ -1,5 +1,0 @@
----
-title: teaching
-date: 2021-04-11T05:44:12.706Z
----
-ffffff
