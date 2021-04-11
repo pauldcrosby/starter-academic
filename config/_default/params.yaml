@@ -76,17 +76,17 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 135
+abstract_length: 500
 plugins_js: []
 avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: 2006
   citation_style: apa
 projects:
   post_view: 2
-  publication_view: 2
+  publication_view: 10
   talk_view: 2
 breadcrumb:
   page_types:
