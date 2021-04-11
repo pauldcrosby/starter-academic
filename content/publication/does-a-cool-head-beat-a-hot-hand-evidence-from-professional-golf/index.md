@@ -20,8 +20,12 @@ abstract: This study draws upon psychological models of momentum to test for the
   psychological skills, including strategies for controlling emotional responses
   to success and failure in the short run.
 draft: false
-featured: false
-tags: []
+featured: true
+tags:
+  - Confidence
+  - Performance
+  - Golf
+  - Hot hand
 categories: []
 projects: []
 image:
