@@ -21,12 +21,9 @@ abstract: This study draws upon psychological models of momentum to test for the
   to success and failure in the short run.
 draft: false
 featured: false
-tags:
-  - Tages
-categories:
-  - Categories
-projects:
-  - Projects
+tags: []
+categories: []
+projects: []
 image:
   filename: featured
   focal_point: Smart
