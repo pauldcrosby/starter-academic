@@ -1,6 +1,6 @@
 ---
 title: Paul Crosby
-role: Lecture in Economics
+role: Lecturer in Economics
 avatar_filename: paul-crosby.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
