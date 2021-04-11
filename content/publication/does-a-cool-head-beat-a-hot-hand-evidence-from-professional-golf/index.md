@@ -27,7 +27,7 @@ projects: []
 image:
   filename: golf.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: ""
 date: 2021-04-11T04:51:09.750Z
 ---
