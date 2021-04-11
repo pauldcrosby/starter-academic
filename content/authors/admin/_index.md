@@ -1,77 +1,67 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Paul Crosby
+role: Lecture in Economics
+avatar_filename: paul-crosby.jpg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Research interests**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr Paul Crosby is a Lecturer in Economics at the Macquarie Business School, Macquarie University. He is an applied microeconomist with research interests in the economics of digitisation, entertainment, social media, culture, sport, and consumer choice. Paul’s work has been published in leading international, peer-reviewed economics journals including *Journal of Economic Behavior and Organization, Economic Modelling, Journal of Cultural Economics* and *Economics Letters.* His work has also been featured in a variety of media outlets such as Fortune Magazine, The Sydney Morning Herald, The Conversation, ABC Radio, and Smart Company. Paul has experience with government and industry collaboration, working with the likes of the Australia Council for the Arts and the Copyright Agency on a variety of externally funded research projects. His work has been presented at a series of invited talks in Australia, Europe, and South Africa.     
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Current projects:
+
+* Digital piracy in the streaming age
+* The economic and cultural value of festivals
+* Book industry economics  
+* Examining new models of income in the cultural industries
+* Novel applications of discrete choice experiments
+
+**Teaching and academic service**
+
+In his teaching, Paul connects economic topics to a diverse range of real-world problems, allowing students to apply their knowledge of economics in familiar settings. He creates stimulating learning environments where students feel invested in the subject matter, thereby gaining a greater appreciation of economics.
+
+Paul has developed and delivered high quality, engaging economics units across both undergraduate and postgraduate levels. He consistently receives excellent student feedback. In 2019, he was the winner of the Macquarie Business School Student Nominated Learning and Teaching Award and was highly commended in the Macquarie University Vice-Chancellor’s Learning and Teaching Awards. In 2017, he received the Macquarie University Dean’s Excellence Award for Unit Development.  
+
+During 2019 and 2020, Paul served as the Learning and Teaching Coordinator for the Department of Economics. Since 2021, Paul has served as an elected member of the Macquarie University Academic Senate and is also a member of the Academic Senate Learning and Teaching Committee.
+
+<!--EndFragment-->
