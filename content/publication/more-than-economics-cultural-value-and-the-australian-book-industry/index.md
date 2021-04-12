@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Paul Crosby
   - David Throsby
-publication: Publishing and culture
+publication: Publishing and culture. Eds. Dallas John Baker, Donna Lee Brien and Jen Webb
 draft: false
 featured: false
 image:
