@@ -7,7 +7,7 @@ authors:
   - Mara Hammerle
   - Paul Crosby
   - Rohan Best
-publication: Economic Record, accepted/in press
+publication: Economic Record, Accepted/In press
 abstract: "We use a discrete choice experiment to quantify whether
   superannuation fund members would be willing to accept lower returns for
   higher allocations of renewable energy in their portfolios. Mixed logit
