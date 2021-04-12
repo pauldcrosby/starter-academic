@@ -15,9 +15,13 @@ abstract: This study examines how success in an online music poll affects
   less-established artists benefit relatively more from this success.
 draft: false
 featured: false
+tags:
+  - Social media
+  - Music polls
+  - Fans
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2018-01-07T04:25:00.000Z
+date: 2018-04-01T05:25:00.000Z
 ---
