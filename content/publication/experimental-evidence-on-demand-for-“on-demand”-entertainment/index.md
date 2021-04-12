@@ -31,9 +31,13 @@ abstract: This study applies stated-preference choice experiments and
   results with a follow-up survey conducted six months after the experiment.
 draft: false
 featured: false
+tags:
+  - Subscription video on demand
+  - Stated preference
+  - Digital piracy
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2019-01-05T04:21:00.000Z
+date: 2019-05-01T05:21:00.000Z
 ---
