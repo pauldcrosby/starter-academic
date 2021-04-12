@@ -28,6 +28,11 @@ abstract: Over the last 30 years, there has been an increasing tendency for
   a promotion effect is the primary channel explaining our main result.
 draft: false
 featured: false
+tags:
+  - Collaborations
+  - Music
+  - Spotify
+  - Economic Returns
 image:
   filename: featured
   focal_point: Smart
