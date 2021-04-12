@@ -19,6 +19,11 @@ abstract: This study investigates whether relative performance evaluations of
   certain cases, and appears to have weakened in more recent years.
 draft: false
 featured: false
+tags:
+  - Evaluation
+  - Labor
+  - Modeling
+  - Sport
 image:
   filename: featured
   focal_point: Smart
