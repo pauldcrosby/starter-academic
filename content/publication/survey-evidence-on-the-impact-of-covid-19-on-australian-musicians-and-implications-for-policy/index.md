@@ -6,7 +6,8 @@ publication_types:
 authors:
   - Paul Crosby
   - Jordi McKenzie
-publication: International Journal of Cultural Policy, Accepted/In press
+doi: 10.1080/10286632.2021.1916004
+publication: International Journal of Cultural Policy, E-pub ahead of print
 abstract: "This study provides survey evidence concerning how COVID-19 has
   impacted Australian musicians.  Between June and July 2020, we surveyed 203
   musicians about the effects of the pandemic on their employment and
