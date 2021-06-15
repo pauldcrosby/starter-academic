@@ -37,6 +37,6 @@ highlight_name: false
 
 Dr Paul Crosby is a Lecturer in Economics at the Macquarie Business School, Macquarie University. He is an applied microeconomist with research interests in the economics of digitisation, entertainment, social media, culture, sport, and consumer choice. Paul’s work has been published in leading international, peer-reviewed economics journals including *Journal of Economic Behavior and Organization, Economic Modelling, Journal of Cultural Economics, Economic Record, International Journal of Cultural Policy, Applied Economics* and *Economics Letters.* His work has also been featured in a variety of media outlets such as Fortune Magazine, The Australian, The Herald Sun, The Daily Telegraph, The Sydney Morning Herald, The Conversation, ABC Radio, and Smart Company. Paul has experience with government and industry collaboration, working with the likes of the Australia Council for the Arts and the Copyright Agency on a variety of externally funded research projects. His work has been presented at a series of invited talks in Australia, Europe, and South Africa.  
 
-Paul's complete research profile can be [found here](https://researchers.mq.edu.au/en/persons/paul-crosby)
+Paul's complete academic profile can be [found here](https://researchers.mq.edu.au/en/persons/paul-crosby)
 
 <!--EndFragment-->
