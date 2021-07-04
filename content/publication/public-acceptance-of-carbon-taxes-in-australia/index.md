@@ -6,7 +6,8 @@ authors:
   - Mara Hammerle
   - Rohan Best
   - Paul Crosby
-publication: Energy Economics, In Press
+doi: https://doi.org/10.1016/j.eneco.2021.105420
+publication: "Energy Economics, E-pub ahead of print "
 abstract: "Carbon taxes can be a low-cost approach to reducing carbon dioxide
   emissions but are often constrained by public acceptability. Our study
   investigates public support for carbon taxes in Australia in two ways. First,
