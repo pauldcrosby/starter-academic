@@ -9,7 +9,7 @@ authors:
   - Liam J. A. Lenten
 author_notes: []
 doi: 10.1007/s10824-020-09396-y
-publication: Journal of Cultural Economics, E-pub ahead of print
+publication: Journal of Cultural Economics, 45(3), 385-408
 abstract: Over the last 30 years, there has been an increasing tendency for
   artists to collaborate with ‘feature’ artists on one-off song projects.
   Although there might be purely artistic reasons for such collaborations, it is
@@ -37,5 +37,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-10-01T05:12:00.000Z
+date: 2021-08-08T23:06:00.000Z
 ---
