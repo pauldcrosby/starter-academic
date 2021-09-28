@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Paul Crosby
 doi: https://doi.org/10.1080/00036846.2021.1931009
-publication: Applied Economics, 53 (51), 5877-5882
+publication: Applied Economics, 53(51), 5877-5882
 abstract: In the world of professional sports, a manager's ability to influence
   team success is often questioned. This study exploits a unique feature of
   Major League Baseball (MLB), which has different rules of play depending on
