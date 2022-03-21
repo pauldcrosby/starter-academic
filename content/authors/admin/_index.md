@@ -1,6 +1,6 @@
 ---
 title: Paul Crosby
-role: Lecturer in Economics
+role: Senior Lecturer in Economics
 avatar_filename: avatar.jpg
 interests:
   - Applied Microeconomics
