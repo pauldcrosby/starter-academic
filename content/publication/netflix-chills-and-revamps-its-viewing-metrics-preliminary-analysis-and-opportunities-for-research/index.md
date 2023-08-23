@@ -8,7 +8,7 @@ authors:
   - Paul Crosby
   - Sunny Y. Shin
 doi: 10.1016/j.poetic.2022.101738
-publication: Poetics, In press, 101738
+publication: Poetics, 96, 101738
 abstract: In November 2021, Netflix surprised industry observers by announcing
   the release of three data sets containing information on its viewing metrics.
   Up until this time, Netflix had been notoriously protective of its data, much
@@ -32,5 +32,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-11-02T02:33:00.000Z
+date: 2023-08-23T22:10:40.223Z
 ---
