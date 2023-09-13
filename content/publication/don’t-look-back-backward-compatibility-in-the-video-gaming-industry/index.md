@@ -7,7 +7,7 @@ authors:
   - Paul Crosby
   - Jordi McKenzie
 doi: https://doi.org/10.1287/stsc.2022.0177
-publication: Strategy Science, In press
+publication: Strategy Science, 8(3), 323-404
 abstract: Backward compatibility is a governance strategy that can be adopted by
   platform owners to build indirect network effects and encourage owners of
   older compatible software to update to newer hardware models. Previous
