@@ -4,10 +4,11 @@ role: Senior Lecturer in Economics
 avatar_filename: avatar.jpg
 interests:
   - Applied Microeconomics
-  - Media Economics
-  - Cultural Economics
-  - Choice Modelling
   - Digitization
+  - Cultural Industries
+  - Social Media
+  - Sports
+  - Consumer Choice
 social:
   - icon: envelope
     icon_pack: fas
