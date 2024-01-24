@@ -4,7 +4,7 @@ role: Senior Lecturer in Economics
 avatar_filename: avatar.jpg
 interests:
   - Applied Microeconomics
-  - Digitization
+  - Digitisation
   - Cultural Industries
   - Social Media
   - Sports
